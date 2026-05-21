@@ -2,8 +2,8 @@
 /**
  * Plugin Name: WP Admin Speed Booster Mini
  * Description: 管理画面の不要なCSS/JS/Emoji/Heartbeatを停止して高速化する軽量プラグイン。
- * Version: 1.0.0
- * Tested up to: 6.9.4
+ * Version: 1.0.1
+ * Tested up to: 7.0.0
  * Requires PHP: 8.3.23
  * Author: masato shibuya(Image-box Co., Ltd.)
  */

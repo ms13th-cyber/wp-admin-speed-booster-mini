@@ -2,9 +2,9 @@
 Contributors: masato shibuya(Image-box Co., Ltd.)
 Tags: admin, speed, performance, optimization, dashboard
 Requires at least: 5.0
-Tested up to: 6.9.4
+Tested up to: 7.0.0
 Requires PHP: 8.0
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -39,6 +39,9 @@ WordPress 管理画面の不要なスクリプト・スタイル・バックグ�
 1. 設定画面：各最適化項目をチェックボックスで個別に切り替え可能。
 
 == Changelog ==
+
+= 1.0.1 =
+* Wordpress7.0.0での動作確認。
 
 = 1.0 =
 * 初回リリース。
